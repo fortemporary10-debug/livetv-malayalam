@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/fortemporary10-debug/livetv-malayalam/main/EliteStreams_malayalam.cs3",
+    "status": 1,
+    "version": 9,
+    "apiVersion": 1,
+    "name": "EliteStreams",
+    "internalName": "EliteStreams",
+    "authors": ["fortemporary10-debug"],
+    "description": "Malayalam TV channels extension",
+    "repositoryUrl": "https://github.com/fortemporary10-debug/livetv-malayalam",
+    "tvTypes": null,
+    "language": "ml",
+    "iconUrl": null,
+    "fileSize": 60035,
+    "fileHash": "5D660A76B869120949C0744B169489461C8AA8CB8C751022701429CF1B5854AB"
+  }
+]
