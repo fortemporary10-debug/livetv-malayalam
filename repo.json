@@ -4,6 +4,6 @@
   "description": "Malayalam TV channels extension",
   "manifestVersion": 1,
   "pluginLists": [
-    "plugins.json"
+    "https://raw.githubusercontent.com/fortemporary10-debug/livetv-malayalam/main/plugins.json"
   ]
 }
