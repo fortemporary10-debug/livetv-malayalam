@@ -1,0 +1,9 @@
+{
+  "iconUrl": null,
+  "name": "EliteStreams Malayalam Repo",
+  "description": "Malayalam TV channels extension",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "plugins.json"
+  ]
+}
